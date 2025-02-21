@@ -195,7 +195,7 @@
 
 .lots__card-list-item {
     min-width: 334px;
-    height: 596px;
+    min-height: 596px;
     background-size: cover;
     position: relative;
     background-position: center;
